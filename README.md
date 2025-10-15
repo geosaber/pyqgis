@@ -1,5 +1,5 @@
 # trendsurf
-QGIS Processing Toolbox tool for Trend Surface Interpolation
+QGIS Processing Toolbox Algorithm for Trend Surface Interpolation
 
 ## **Script Python para gerar Superfície de Tendência**
 

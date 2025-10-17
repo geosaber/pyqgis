@@ -261,4 +261,5 @@ class TrendSurfaceAlgorithm(QgsProcessingAlgorithm):
 
 
 def classFactory(iface):
+
     return TrendSurfaceAlgorithm()

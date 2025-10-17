@@ -42,3 +42,47 @@ Script para gerar superfície de tendência a partir de pontos
 - ✅ Tratamento de erros
 
 O script criará um raster contendo a superfície de tendência baseada nos seus pontos de entrada!
+
+Enhanced Polynomial Trend Surface Analysis Script (EXPERIMENTAL)
+# **Enhanced Polynomial Trend Surface Analysis Script**
+
+## **New Features Added:**
+
+### **1. Advanced Statistical Analysis**
+- R², Adjusted R², RMSE, MAE
+- AIC and BIC for model selection
+- Normality tests for residuals
+- Cross-validation with k-fold
+
+### **2. Robust Regression**
+- Outlier-resistant fitting
+- Iteratively reweighted least squares
+- Huber-like weighting function
+
+### **3. Confidence Intervals**
+- Prediction uncertainty maps
+- Standard errors calculation
+- Custom confidence levels
+
+### **4. Comprehensive Outputs**
+- Trend surface raster
+- Residual raster
+- Confidence intervals raster
+- Statistical reports
+- Residual points layer
+
+### **5. Model Validation**
+- Cross-validation metrics
+- Model diagnostics
+- Overfitting detection
+
+### **6. Weighted Regression**
+- Support for weighted least squares
+- Variable importance weighting
+
+### **7. Enhanced User Interface**
+- More parameters and options
+- Better progress feedback
+- Optional outputs
+
+This enhanced version provides professional-grade trend surface analysis with comprehensive diagnostics and validation tools!

@@ -1,6 +1,8 @@
 # trendsurf
 QGIS Processing Toolbox Algorithm for Trend Surface Interpolation
 
+Tutorial (en): https://github.com/geosaber/trendsurf/wiki
+
 ## **Script Python para gerar Superfície de Tendência**
 
 Script para gerar superfície de tendência a partir de pontos

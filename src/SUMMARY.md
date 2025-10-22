@@ -1,6 +1,6 @@
 # Summary
 
-- [Introdução](README.md)
+- [Introdução](index.md)
 - [Superfície de Tendência](TrendSurface.md)
 - [Contornos Suavizados](SmoothContours.md)
 - [Estilos](Contours.md)

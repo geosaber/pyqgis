@@ -1,0 +1,21 @@
+[book]
+title = "QGIS Processing Toolbox Algorithm"
+authors = ["Sidney S Goveia"]
+description = "The example book covers examples."
+
+[rust]
+edition = "2018"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[output.html]
+additional-css = ["custom.css"]
+
+[output.html.search]
+limit-results = 15

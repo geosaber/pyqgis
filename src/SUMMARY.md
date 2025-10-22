@@ -5,3 +5,4 @@
 - [Contornos Suavizados](SmoothContours.md)
 - [Estilos](Contours.md)
 - [Trend Surface Analysis](TrendSurfaceAnalysis.md)
+- [Natural Neighbor Interpolation](NaturalNeighborInterpolation.md)

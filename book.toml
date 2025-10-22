@@ -16,8 +16,6 @@ create-missing = true
 
 [output.html]
 site-url = "/pyqgis/"  # Nome do repositório
-additional-css = ["custom.css"]
-additional-js = ["custom.js"]
 mathjax-support = true
 
 [output.html.search]

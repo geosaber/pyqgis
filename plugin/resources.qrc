@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/plugins/enhanced_trend_surface">
-    <file>icons/icon.png</file>
-    <file>icons/icon.svg</file>
-  </qresource>
-</RCC>
